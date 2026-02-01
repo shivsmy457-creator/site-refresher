@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping Replit Site
-        run: curl -s https://ce4fe4a1-a8bb-4923-a85c-7dadff94d319-00-1qzj5flieiqv2.riker.replit.dev/auth?invite=P9QJ2B
+        run: curl -s https://ce4fe4a1-a8bb-4923-a85c-7dadff94d319-00-1qzj5flieiqv2.riker.replit.dev/
