@@ -1,7 +1,7 @@
 name: Ghost Keep Alive
 on:
   schedule:
-    - cron: '* * * * *' # Har 5 minute mein chalega
+    - cron: '* * * * *'
   workflow_dispatch: # Manual chalane ke liye
 
 jobs:
